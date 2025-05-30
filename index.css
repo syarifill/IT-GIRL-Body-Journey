@@ -1,0 +1,16 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff0f5;
+}
+input, button {
+  padding: 8px;
+  border-radius: 10px;
+  border: 1px solid #f3c4d4;
+}
+button {
+  background-color: #ec4899;
+  color: white;
+  cursor: pointer;
+}
